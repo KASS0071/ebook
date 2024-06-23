@@ -1,0 +1,3700 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.6.17)  23 JUN 2024 09:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**57227-001
+(./57227-001.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexbook.cls
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count181
+\l__color_backend_stack_int=\count182
+\g__color_backend_stack_int=\count183
+\g__graphics_track_int=\count184
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count185
+\g__pdf_backend_annotation_int=\count186
+\g__pdf_backend_link_int=\count187
+))
+Document Class: ctexbook 2021/12/12 v2.5.8 Chinese adapter for class book (CTEX
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count188
+\l__ctex_tmp_box=\box51
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count189
+\g__ctex_font_size_int=\count190
+
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count191
+\c@chapter=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen140
+\l__xtemplate_tmp_int=\count266
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count267
+\l__xeCJK_tmp_box=\box52
+\l__xeCJK_tmp_dim=\dimen141
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count268
+\l__xeCJK_begin_int=\count269
+\l__xeCJK_end_int=\count270
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count271
+\c__xeCJK_CJK_node_dim=\dimen142
+\c__xeCJK_CJK-space_node_dim=\dimen143
+\c__xeCJK_default_node_dim=\dimen144
+\c__xeCJK_default-space_node_dim=\dimen145
+\c__xeCJK_CJK-widow_node_dim=\dimen146
+\c__xeCJK_normalspace_node_dim=\dimen147
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count272
+\l__xeCJK_last_bound_dim=\dimen148
+\l__xeCJK_last_kern_dim=\dimen149
+\l__xeCJK_widow_penalty_int=\count273
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2337.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen150
+\l__xeCJK_mixed_punct_width_dim=\dimen151
+\l__xeCJK_middle_punct_width_dim=\dimen152
+\l__xeCJK_fixed_margin_width_dim=\dimen153
+\l__xeCJK_mixed_margin_width_dim=\dimen154
+\l__xeCJK_middle_margin_width_dim=\dimen155
+\l__xeCJK_bound_punct_width_dim=\dimen156
+\l__xeCJK_bound_margin_width_dim=\dimen157
+\l__xeCJK_margin_minimum_dim=\dimen158
+\l__xeCJK_kerning_total_width_dim=\dimen159
+\l__xeCJK_same_align_margin_dim=\dimen160
+\l__xeCJK_different_align_margin_dim=\dimen161
+\l__xeCJK_kerning_margin_width_dim=\dimen162
+\l__xeCJK_kerning_margin_minimum_dim=\dimen163
+\l__xeCJK_bound_dim=\dimen164
+\l__xeCJK_reverse_bound_dim=\dimen165
+\l__xeCJK_margin_dim=\dimen166
+\l__xeCJK_minimum_bound_dim=\dimen167
+\l__xeCJK_kerning_margin_dim=\dimen168
+\g__xeCJK_family_int=\count274
+\l__xeCJK_fam_int=\count275
+\g__xeCJK_fam_allocation_int=\count276
+\l__xeCJK_verb_case_int=\count277
+\l__xeCJK_verb_exspace_skip=\skip55
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count278
+\l__fontspec_language_int=\count279
+\l__fontspec_strnum_int=\count280
+\l__fontspec_tmp_int=\count281
+\l__fontspec_tmpa_int=\count282
+\l__fontspec_tmpb_int=\count283
+\l__fontspec_tmpc_int=\count284
+\l__fontspec_em_int=\count285
+\l__fontspec_emdef_int=\count286
+\l__fontspec_strong_int=\count287
+\l__fontspec_strongdef_int=\count288
+\l__fontspec_tmpa_dim=\dimen169
+\l__fontspec_tmpb_dim=\dimen170
+\l__fontspec_tmpc_dim=\dimen171
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
+))
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip56
+)
+\l__ctex_ziju_dim=\dimen173
+
+(/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count289
+
+(/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip57
+
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.d
+ef
+File: ctex-scheme-chinese-book.def 2021/12/12 v2.5.8 Chinese scheme for book (C
+TEX)
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/12/12 v2.5.8 c5size option (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2021/12/12 v2.5.8 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+)
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault'
+(xeCJK)                (FandolSong-Regular(0)).
+
+
+Package fontspec Info: Could not resolve font "Noto Serif CJK SC/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'NotoSerifCJKSC(0)' created for font 'Noto
+(fontspec)             Serif CJK SC' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Serif CJK
+(fontspec)             SC/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Serif CJK
+(fontspec)             SC/B/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Serif
+(fontspec)             CJK SC/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+)
+(./57227-001.aux)
+\openout1 = `57227-001.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
+LaTeX Font Info:    Redeclaring math accent \check on input line 34.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 34.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=681.15898pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-45.43198pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12.045> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
+[1
+
+
+]
+
+! LaTeX Error: File `content.txt' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: txt)
+
+Enter file name: 57227-1
+(./57227-1.txt
+! You can't use `macro parameter character #' in horizontal mode.
+l.15 ...e*{2em}Release Date: May 28, 2018 [EBook #
+                                                  57227] \\
+? skip
+OK, entering \scrollmode...
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+Missing character: There is no  (U+F09F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+Missing character: There is no  (U+F02A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [7]
+Missing character: There is no  (U+F00A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+Missing character: There is no  (U+F4B2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [10]
+Missing character: There is no  (U+EEF9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EEF9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+Missing character: There is no  (U+F0A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F3D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+Missing character: There is no  (U+EEF9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EEF9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+Missing character: There is no  (U+EFAC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [15]
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [16]
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [18]
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
+
+ []
+
+Missing character: There is no  (U+EF5D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--207
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--220
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 221--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
+
+ []
+
+Missing character: There is no  (U+EF5D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--239
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--249
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 250--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [24]
+Missing character: There is no  (U+EF34) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--285
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Missing character: There is no  (U+F02A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--309
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [28]
+Underfull \hbox (badness 10000) in paragraph at lines 310--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--316
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
+
+ []
+
+Missing character: There is no  (U+F46C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--329
+
+ []
+
+Missing character: There is no  (U+F46C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--333
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [30]
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--341
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--358
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [32]
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \hbox (badness 10000) in paragraph at lines 364--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--373
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
+
+ []
+
+Missing character: There is no  (U+F687) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--382
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--391
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [35]
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--398
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Underfull \hbox (badness 10000) in paragraph at lines 399--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--405
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \hbox (badness 10000) in paragraph at lines 406--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--422
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [38]
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--432
+
+ []
+
+Missing character: There is no  (U+EF61) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+
+ []
+
+Missing character: There is no  (U+EFE9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--451
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Underfull \hbox (badness 10000) in paragraph at lines 455--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--462
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Missing character: There is no  (U+EEF0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF9B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--468
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \hbox (badness 10000) in paragraph at lines 469--471
+
+ []
+
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--474
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--486
+
+ []
+
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--492
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+Underfull \hbox (badness 10000) in paragraph at lines 493--495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+
+ []
+
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--508
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [48]
+Underfull \hbox (badness 10000) in paragraph at lines 515--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--526
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+Underfull \hbox (badness 10000) in paragraph at lines 527--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--532
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--539
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [50]
+Missing character: There is no  (U+E61C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--547
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \hbox (badness 10000) in paragraph at lines 548--550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--552
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--558
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--563
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--567
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
+
+ []
+
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--578
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+Underfull \hbox (badness 10000) in paragraph at lines 579--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--608
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--613
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--618
+
+ []
+
+Missing character: There is no  (U+F04C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--621
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
+Underfull \hbox (badness 10000) in paragraph at lines 622--624
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--626
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--628
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 630--631
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--634
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--641
+
+ []
+
+Missing character: There is no  (U+EFC5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--645
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [60]
+Underfull \hbox (badness 10000) in paragraph at lines 646--648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
+
+ []
+
+Missing character: There is no  (U+EF95) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF7A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--656
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+Underfull \hbox (badness 10000) in paragraph at lines 657--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--664
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--672
+
+ []
+
+Missing character: There is no  (U+EED6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--675
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [63]
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 678--679
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--685
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--692
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+Underfull \hbox (badness 10000) in paragraph at lines 693--695
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 696--699
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--702
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66]
+Underfull \hbox (badness 10000) in paragraph at lines 705--710
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--719
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67]
+Underfull \hbox (badness 10000) in paragraph at lines 720--722
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--724
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 725--727
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+Underfull \hbox (badness 10000) in paragraph at lines 728--729
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 730--731
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--741
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--744
+
+ []
+
+! Too many }'s.
+<recently read> }
+                 
+l.747 ...分是能詩之鬼。請畫仙者，來的是能畫之鬼。若偶然遇得真仙下降，詩必入妙，畫必通靈。}
+                                                  \\
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--750
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [70]
+Underfull \hbox (badness 10000) in paragraph at lines 751--753
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--756
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+Underfull \hbox (badness 10000) in paragraph at lines 757--759
+
+ []
+
+Missing character: There is no  (U+EEF9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--761
+
+ []
+
+Missing character: There is no  (U+EFC5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--767
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [72]
+Underfull \hbox (badness 10000) in paragraph at lines 768--769
+
+ []
+
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 774--777
+
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 778--779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--787
+
+ []
+
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--793
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [74]
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+Underfull \hbox (badness 10000) in paragraph at lines 798--799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 800--801
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--803
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--806
+
+ []
+
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--813
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [76]
+Missing character: There is no  (U+F057) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 814--817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 820--823
+
+ []
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--828
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--834
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+
+ []
+
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--841
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Underfull \hbox (badness 10000) in paragraph at lines 842--844
+
+ []
+
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F062) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--853
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80]
+Underfull \hbox (badness 10000) in paragraph at lines 854--856
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--859
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+Missing character: There is no  (U+EF65) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF65) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--864
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
+Underfull \hbox (badness 10000) in paragraph at lines 865--867
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--871
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 872--874
+
+ []
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 875--876
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--879
+
+ []
+
+Missing character: There is no  (U+F0AA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F29F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--882
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--885
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--891
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [84]
+Underfull \hbox (badness 10000) in paragraph at lines 892--894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--899
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 900--905
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [85]
+Underfull \hbox (badness 10000) in paragraph at lines 906--907
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--916
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [86]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 919--922
+
+ []
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 923--924
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--927
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--933
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 934--936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--939
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [89]
+Underfull \hbox (badness 10000) in paragraph at lines 940--941
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 942--944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--947
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90]
+Underfull \hbox (badness 10000) in paragraph at lines 948--949
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--953
+
+ []
+
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
+
+ []
+
+Missing character: There is no  (U+E830) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--962
+
+ []
+
+Missing character: There is no  (U+E830) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--968
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [92]
+Underfull \hbox (badness 10000) in paragraph at lines 969--971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 972--974
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+Underfull \hbox (badness 10000) in paragraph at lines 975--977
+
+ []
+
+Missing character: There is no  (U+EF61) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--981
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Underfull \hbox (badness 10000) in paragraph at lines 982--983
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--987
+
+ []
+
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 988--989
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 990--992
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--998
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+Underfull \hbox (badness 10000) in paragraph at lines 999--1000
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1001--1003
+
+ []
+
+Missing character: There is no  (U+E894) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1007
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [97]
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1010
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1013
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1015
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1016--1020
+
+ []
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1022
+
+ []
+
+Missing character: There is no  (U+F29F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1029
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1033
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [99]
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1036
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1041
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100]
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1049
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1051
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1052--1055
+
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1060
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1063
+
+ []
+
+Missing character: There is no  (U+EF61) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1065
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1068
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1073
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Underfull \hbox (badness 10000) in paragraph at lines 1074--1076
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1081
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1083
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [105]
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1090
+
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1092
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1107
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107]
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1118
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F031) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1122--1128
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
+
+ []
+
+Missing character: There is no  (U+EEF0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1139
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1146
+
+ []
+
+Missing character: There is no  (U+E7BC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1155
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [112]
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1161
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1166
+
+ []
+
+Missing character: There is no  (U+EFE9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1167--1177
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1180
+
+ []
+
+Missing character: There is no  (U+E830) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1185
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [116]
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1188--1191
+
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1200
+
+ []
+
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFE9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFC3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1203
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [118]
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1206
+
+ []
+
+Missing character: There is no  (U+EF89) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF89) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF89) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF89) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF89) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFAF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFC5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFAF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1212
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [119]
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1215--1218
+
+ []
+
+[120]
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1223
+
+ []
+
+Missing character: There is no  (U+F020) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1228
+
+ []
+
+Missing character: There is no  (U+EF9B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EF9B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1229--1230
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121]
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1236
+
+ []
+
+Missing character: There is no  (U+EF61) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1239
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+Missing character: There is no  (U+F0A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1243--1245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1249--1250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1253
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [123]
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1264
+
+ []
+
+[124]
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1269
+
+ []
+
+Missing character: There is no  (U+EFCB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFCB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F3EC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F3EC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1275
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [125]
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1281
+
+ []
+
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1283
+
+ []
+
+Missing character: There is no  (U+EF81) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1284--1290
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [126]
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1295--1299
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1302--1305
+
+ []
+
+[128]
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1311--1316
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129]
+Underfull \hbox (badness 10000) in paragraph at lines 1317--1319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1320--1327
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
+Underfull \hbox (badness 10000) in paragraph at lines 1328--1329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1330--1332
+
+ []
+
+Missing character: There is no  (U+F008) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F008) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F6A3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1333--1339
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+Underfull \hbox (badness 10000) in paragraph at lines 1340--1341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1342--1346
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132]
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1349--1351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1352--1356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1357--1359
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+Underfull \hbox (badness 10000) in paragraph at lines 1360--1362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1363--1368
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135]
+Underfull \hbox (badness 10000) in paragraph at lines 1369--1371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1372--1373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1374--1376
+
+ []
+
+Missing character: There is no  (U+EFC3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1377--1378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1379--1380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [136]
+Underfull \hbox (badness 10000) in paragraph at lines 1383--1389
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [137]
+Underfull \hbox (badness 10000) in paragraph at lines 1390--1391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1392--1395
+
+ []
+
+[138]
+Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1398--1400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1413
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [139]
+Underfull \hbox (badness 10000) in paragraph at lines 1414--1416
+
+ []
+
+Missing character: There is no  (U+F3EC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1424
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [140]
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1432
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141]
+[142]
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1438--1444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1445--1451
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [143]
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1459
+
+ []
+
+Missing character: There is no  (U+F00A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1460--1463
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [144]
+Underfull \hbox (badness 10000) in paragraph at lines 1464--1466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1469--1472
+
+ []
+
+[145]
+Underfull \hbox (badness 10000) in paragraph at lines 1473--1474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1477
+
+ []
+
+Missing character: There is no  (U+F29F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1489
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146]
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1492
+
+ []
+
+Missing character: There is no  (U+EEF9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1504
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148]
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1512
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149]
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1515--1518
+
+ []
+
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1524--1532
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [151]
+Underfull \hbox (badness 10000) in paragraph at lines 1533--1535
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1539
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1540--1542
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [152]
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1544
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1545--1547
+
+ []
+
+Missing character: There is no  (U+F012) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1548--1552
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1554
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [153]
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1564--1565
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1569
+
+ []
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1572--1574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1579
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [155]
+Underfull \hbox (badness 10000) in paragraph at lines 1580--1582
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1583--1588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1591
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156]
+Missing character: There is no  (U+F6A4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+F327) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1599
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1601
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157]
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1605
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1606--1609
+
+ []
+
+[158]
+Underfull \hbox (badness 10000) in paragraph at lines 1610--1611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1612--1614
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1617--1619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1620--1626
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [159]
+Underfull \hbox (badness 10000) in paragraph at lines 1627--1629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1630--1635
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1638
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1639--1640
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1641--1643
+
+ []
+
+Missing character: There is no  (U+E830) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1644--1646
+
+ []
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+ [161]
+Underfull \hbox (badness 10000) in paragraph at lines 1647--1648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1649--1652
+
+ []
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1657
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1658--1673
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [164]
+Underfull \hbox (badness 10000) in paragraph at lines 1674--1675
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1676--1677
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [165]
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1679
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1683
+
+ []
+
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 1684--1685
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1688
+
+ []
+
+Missing character: There is no  (U+EFE9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no  (U+EFE9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1689--1704
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168]
+Underfull \hbox (badness 10000) in paragraph at lines 1705--1707
+
+ []
+
+Missing character: There is no  (U+EF7A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1708--1711
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1714--1715
+
+ []
+
+[169]
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1721
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1727
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [170]
+Underfull \hbox (badness 10000) in paragraph at lines 1728--1730
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1731--1732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1742--1745
+
+ []
+
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [171]
+Underfull \hbox (badness 10000) in paragraph at lines 1746--1748
+
+ []
+
+Missing character: There is no  (U+EEDB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1749--1758
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [172]
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1761
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [173]
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1763
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1764--1765
+
+ []
+
+Missing character: There is no  (U+EEF0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1766--1767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1768--1772
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1775
+
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [174]
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1780
+
+ []
+
+[175]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.53937> on input line 2096.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2096.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2096.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1782--37
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [176]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [177]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [179]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [180]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [182]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [183]
+[184] (./57227-001.aux) ) 
+Here is how much of TeX's memory you used:
+ 7812 strings out of 477756
+ 237581 string characters out of 5843518
+ 627127 words of memory out of 5000000
+ 28378 multiletter control sequences out of 15000+600000
+ 474769 words of font info for 69 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 89i,12n,97p,1914b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 57227-001.pdf (184 pages).

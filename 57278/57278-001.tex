@@ -1,0 +1,39 @@
+
+\documentclass{ctexbook} % 使用 ctexbook 文档类，支持中文书籍排版
+\usepackage{xeCJK} % 中文支持
+\setCJKmainfont{Noto Serif CJK SC} % 设置中文衬线字体
+
+% 更新弃用的命令
+\ctexset{
+  chapter = {
+    name = {第,回},
+    number = \chinese{chapter},
+    format = {\bfseries \Huge}
+  }
+}
+
+\usepackage{geometry}
+\geometry{
+  top=2cm,    % 上边距
+  bottom=2cm, % 下边距
+  left=2.5cm, % 左边距
+  right=2.5cm % 右边距
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhf{} % 清空默认的页眉和页脚
+\fancyfoot[C]{\thepage} % 设置页码在页脚的中间位置
+
+\title{青樓夢Ching Lou Meng}
+\author{達俞Ta Yu}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\input{content.txt}
+
+\end{document}
+
