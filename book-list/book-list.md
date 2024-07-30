@@ -1,7 +1,6 @@
 Please vote the following boot titles by adding the vote count:
 1. top 100 English titles
 
-<<<<<<< HEAD
 | ID | Title | Author | Language |  Count |
 | -------------- | ------------------- |------------------- | -------------- | ------------------- |
 | 10 | The King James Version of the Bible                            | | EN  | 0 |
@@ -203,4 +202,3 @@ Please vote the following boot titles by adding the vote count:
 | 8800-The divine comedy by Dante Alighieri                                                             | 0 |
 | 98-A Tale of Two Cities by Charles Dickens                                                            | 0 |
 | 996-Don Quixote by Miguel de Cervantes Saavedra                                                       | 0 |
->>>>>>> c3316c1c0cabef43433f8e2fa0f5d7ce7c7f5523
