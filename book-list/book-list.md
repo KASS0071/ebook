@@ -7,14 +7,14 @@ Please vote the following boot titles by adding the vote count:
 | 100-The Complete Works of William Shakespeare by William Shakespeare | 0 |
 | 10676-The Reign of Greed by José Rizal                               | 0 |
 | 1080-A Modest Proposal by Jonathan Swift                             | 0 |
-| 11-Alice's Adventures in Wonderland by Lewis Carroll                 | 0 |
+| 11-Alice's Adventures in Wonderland by Lewis Carroll                 | 1 |
 | 1184-The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet | 0 |
 | 120-Treasure Island by Robert Louis Stevenson                        | 0 |
-| 1232-The Prince by Niccolò Machiavelli                               | 0 |
+| 1232-The Prince by Niccolò Machiavelli                               | 1 |
 | 1259-Twenty years after by Alexandre Dumas and Auguste Maquet        | 0 |
 | 1260-Jane Eyre~ An Autobiography by Charlotte Bront?                 | 0 |
 | 1342-Pride and Prejudice by Jane Austen                              | 0 |
-| 135-Les Misérables by Victor Hugo                                    | 0 |
+| 135-Les Misérables by Victor Hugo                                    | 1 |
 | 1400-Great Expectations by Charles Dickens                           | 0 |
 | 145-Middlemarch by George Eliot |0 |
 | 14859-Daddy Takes Us to the Garden by Howard Roger Garis                                              | 0 |
@@ -24,7 +24,7 @@ Please vote the following boot titles by adding the vote count:
 | 16-Peter Pan by J. M.  Barrie                                                                         | 0 |
 | 16328-Beowulf~ An Anglo-Saxon Epic Poem                                                               | 0 |
 | 16389-The Enchanted April by Elizabeth Von Arnim                                                      | 0 |
-| 1661-The Adventures of Sherlock Holmes by Arthur Conan Doyle                                          | 0 |
+| 1661-The Adventures of Sherlock Holmes by Arthur Conan Doyle                                          | 1 |
 | 1727-The Odyssey by Homer                                                                             | 0 |
 | 174-The Picture of Dorian Gray by Oscar Wilde                                                         | 0 |
 | 1952-The Yellow Wallpaper by Charlotte Perkins Gilman                                                 | 0 |
@@ -58,7 +58,7 @@ Please vote the following boot titles by adding the vote count:
 | 35830-The 2010 CIA World Factbook by United States. Central Intelligence Agency                       | 0 |
 | 35899-The Philippines a Century Hence by José Rizal                                                   | 0 |
 | 36-The War of the Worlds by H. G.  Wells                                                              | 0 |
-| 37106-Little Women; Or, Meg, Jo, Beth, and Amy by Louisa May Alcott                                   | 0 |
+| 37106-Little Women; Or, Meg, Jo, Beth, and Amy by Louisa May Alcott                                   | 1 |
 | 394-Cranford by Elizabeth Cleghorn Gaskell                                                            | 0 |
 | 408-The Souls of Black Folk by W. E. B.  Du Bois                                                      | 0 |
 | 4085-The Adventures of Roderick Random by T.  Smollett                                                | 0 |
