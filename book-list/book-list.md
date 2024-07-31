@@ -86,7 +86,7 @@ Please vote the following boot titles by adding the vote count:
 | 73654 | A waif's progress | Rhoda Broughton                                                            | EN  | 0 |
 | 73658 | When mother lets us make paper box furniture ~ | G. Ellingwood  Rich                           | EN  | 0 |
 | 73659 | Lily's birthday | Madeline Leslie                                                              | EN  | 0 |
-| 3660 | 7The robbers' cave ~ | A. L. O. E.                                                              | EN  | 0 |
+| 36607 | The robbers' cave ~ | A. L. O. E.                                                              | EN  | 0 |
 | 73661 | Maxims and counsels of St. Francis de Sales for every day of the year | Saint de Sales Francis | EN  | 0 |
 | 73662 | The eyes of innocence | Maurice Leblanc                                                        | EN  | 0 |
 | 73663 | Short stories from the Balkans                                                               | | EN  | 0 |
