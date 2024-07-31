@@ -1,4 +1,4 @@
-Please vote the following boot titles by adding the vote count:
+Please vote the following book titles by adding the vote count:
 1. top 100 English titles
 
 | ID | Title | Author | Language |  Count |
@@ -22,7 +22,7 @@ Please vote the following boot titles by adding the vote count:
 | 1513 | Romeo and Juliet | William Shakespeare                                                          | EN  | 0 |
 | 158 | Emma | Jane Austen                                                                               | EN  | 0 |
 | 16 | Peter Pan | J. M.  Barrie                                                                         | EN  | 0 |
-| 16328 | Beowulf~ An Anglo-Saxon Epic Poem                                                            | | EN  | 0 |
+| 16328 | Beowulf~ An Anglo-Saxon Epic Poem                                                              | EN  | 0 |
 | 16389 | The Enchanted April | Elizabeth Von Arnim                                                      | EN  | 0 |
 | 1661 | The Adventures of Sherlock Holmes | Arthur Conan Doyle                                          | EN  | 1 |
 | 1727 | The Odyssey | Homer                                                                             | EN  | 0 |
@@ -89,7 +89,7 @@ Please vote the following boot titles by adding the vote count:
 | 36607 | The robbers' cave ~ | A. L. O. E.                                                              | EN  | 0 |
 | 73661 | Maxims and counsels of St. Francis de Sales for every day of the year | Saint de Sales Francis | EN  | 0 |
 | 73662 | The eyes of innocence | Maurice Leblanc                                                        | EN  | 0 |
-| 73663 | Short stories from the Balkans                                                               | | EN  | 0 |
+| 73663 | Short stories from the Balkans                                                                 | EN  | 0 |
 | 73668 | Music after the great war, and other studies | Carl Van Vechten                                | EN  | 0 |
 | 74 | The Adventures of Tom Sawyer, Complete | Mark Twain                                               | EN  | 0 |
 | 76 | Adventures of Huckleberry Finn | Mark Twain                                                       | EN  | 0 |
@@ -246,8 +246,8 @@ Please vote the following boot titles by adding the vote count:
 | 22   | 初中     | 文学     | 世说新语选译                                     | (南朝宋)刘义庆 著/柳士镇，钱南秀 译注                   | 0    |
 | 23   | 初中     | 文学     | 唐诗三百首                                       | (清)蘅塘退士 编                                           | 0    |
 | 24   | 初中     | 文学     | 元明清散曲选                                     | 王起 主编/洪柏昭，谢伯阳 选注                             | 0    |
-| 25   | 初中     | 文学     | 水浒传                                           | (明)施耐庵 著                                             | 0    |
-| 26   | 初中     | 文学     | 西游记                                           | (明)吴承恩 著                                             | 0    |
+| 25   | 初中     | 文学     | 水浒传                                           | (明)施耐庵 著                                             | 1   |
+| 26   | 初中     | 文学     | 西游记                                           | (明)吴承恩 著                                             | 1    |
 | 27   | 初中     | 文学     | 聊斋志异选                                       | (清)蒲松龄 著/张友鹤 选注                                 | 0    |
 | 28   | 初中     | 文学     | 儒林外史                                         | (清)吴敬梓 著                                             | 0    |
 | 29   | 初中     | 文学     | 古文观止                                         | (清)吴楚材，(清)吴调侯 选编                               | 0    |
@@ -353,9 +353,9 @@ Please vote the following boot titles by adding the vote count:
 | 24   | 高中     | 文学     | 唐宋传奇选                                 | 张友鹤 选注                        | 0    |
 | 25   | 高中     | 文学     | 宋词选                                     | 胡云翼 选注                        | 0    |
 | 26   | 高中     | 文学     | 窦娥冤：关汉卿选集                         | (元)关汉卿 著/康保成，李树玲选注 | 0    |
-| 27   | 高中     | 文学     | 西厢记                                     | (元)王实甫 著/王季思 校注          | 0    |
+| 27   | 高中     | 文学     | 西厢记                                     | (元)王实甫 著/王季思 校注          | 1    |
 | 28   | 高中     | 文学     | 牡丹亭                                     | (明)汤显祖 著/徐朔方，杨笑梅校注 | 0    |
-| 29   | 高中     | 文学     | 三国演义                                   | (明)罗贯中 著                      | 0    |
+| 29   | 高中     | 文学     | 三国演义                                   | (明)罗贯中 著                      | 1    |
 | 30   | 高中     | 文学     | 徐霞客游记                                 | (明)徐霞客 著                      | 0    |
 | 31   | 高中     | 文学     | 红楼梦                                     | (清)曹雪芹 著                      | 0    |
 | 32   | 高中     | 文学     | 官场现形记                                 | (清)李伯元 著                      | 0    |
@@ -375,14 +375,14 @@ Please vote the following boot titles by adding the vote count:
 | 46   | 高中     | 文学     | 平凡的世界                                 | 路遥 著                            | 0    |
 | 47   | 高中     | 文学     | 哦，香雪                                   | 铁凝 著                            | 0    |
 | 48   | 高中     | 文学     | 历史的天空                                 | 徐贵祥 著                          | 0    |
-| 49   | 高中     | 文学     | 三体                                       | 刘慈欣 著                          | 0    |
+| 49   | 高中     | 文学     | 三体                                       | 刘慈欣 著                          | 1    |
 | 50   | 高中     | 文学     | 中华传统文化经典百篇                       | 袁行霈，王仲伟，陈进玉 主编        | 0    |
 | 51   | 高中     | 文学     | 经典常谈                                   | 朱自清 著                          | 0    |
 | 52   | 高中     | 文学     | 语文常谈                                   | 吕叔湘 著                          | 0    |
 | 53   | 高中     | 文学     | 诗词格律                                   | 王力 著                            | 0    |
 | 54   | 高中     | 文学     | 乡土中国                                   | 费孝通 著                          | 0    |
-| 55   | 高中     | 文学     | 堂吉诃德                                   | [西班牙]塞万提斯 著/杨绛 译        | 0    |
-| 56   | 高中     | 文学     | 哈姆雷特                                   | [英]莎士比亚 著/朱生豪 译          | 0    |
+| 55   | 高中     | 文学     | 堂吉诃德                                   | [西班牙]塞万提斯 著/杨绛 译        | 1    |
+| 56   | 高中     | 文学     | 哈姆雷特                                   | [英]莎士比亚 著/朱生豪 译          | 1    |
 | 57   | 高中     | 文学     | 普希金诗选                                 | [俄]普希金 著/查良铮 译            | 0    |
 | 58   | 高中     | 文学     | 悲惨世界                                   | [法]雨果 著/郑克鲁 译              | 0    |
 | 59   | 高中     | 文学     | 大卫·科波菲尔                              | [英]狄更斯 著/宋兆霖 译            | 0    |
