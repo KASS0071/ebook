@@ -22,7 +22,7 @@ Please vote the following book titles by adding the vote count:
 | 1513 | Romeo and Juliet | William Shakespeare                                                          | EN  | 0 |
 | 158 | Emma | Jane Austen                                                                               | EN  | 0 |
 | 16 | Peter Pan | J. M.  Barrie                                                                         | EN  | 0 |
-| 16328 | Beowulf~ An Anglo-Saxon Epic Poem                                                              | EN  | 0 |
+| 16328 | Beowulf~ An Anglo-Saxon Epic Poem   |                                                          | EN  | 0 |
 | 16389 | The Enchanted April | Elizabeth Von Arnim                                                      | EN  | 0 |
 | 1661 | The Adventures of Sherlock Holmes | Arthur Conan Doyle                                          | EN  | 1 |
 | 1727 | The Odyssey | Homer                                                                             | EN  | 0 |
