@@ -89,7 +89,7 @@ Please vote the following book titles by adding the vote count:
 | 36607 | The robbers' cave ~ | A. L. O. E.                                                              | EN  | 0 |
 | 73661 | Maxims and counsels of St. Francis de Sales for every day of the year | Saint de Sales Francis | EN  | 0 |
 | 73662 | The eyes of innocence | Maurice Leblanc                                                        | EN  | 0 |
-| 73663 | Short stories from the Balkans                                                                 | EN  | 0 |
+| 73663 | Short stories from the Balkans                                        |                        | EN  | 0 |
 | 73668 | Music after the great war, and other studies | Carl Van Vechten                                | EN  | 0 |
 | 74 | The Adventures of Tom Sawyer, Complete | Mark Twain                                               | EN  | 0 |
 | 76 | Adventures of Huckleberry Finn | Mark Twain                                                       | EN  | 0 |
