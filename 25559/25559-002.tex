@@ -1,0 +1,49 @@
+\documentclass{ctexbook}
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Serif CJK SC}
+
+\ctexset{
+  chapter = {
+    name = {第,回},
+    number = \chinese{chapter},
+    format = {\bfseries \Huge}
+  }
+}
+
+\usepackage{geometry}
+\geometry{
+  top=2cm,
+  bottom=2cm,
+  left=2.5cm,
+  right=2.5cm
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+\title{中國小說史略}
+\author{魯迅 Xun Lu}
+\date{\today}
+
+\usepackage{pdfpages}
+
+% Define a variable for the cover PDF file name
+\newcommand{\coverpdf}{/home/kass/Documents/book/25559/史略.pdf}
+
+\begin{document}
+
+% Insert PDF as Cover and match document page size
+\includepdf[pages=-,fitpaper=true,offset=0 0,noautoscale=true]{\coverpdf}
+
+% Ensure next part starts on a new page without extra blank page
+\cleardoublepage
+
+% Standard Title Page
+\maketitle
+
+\input{content.txt}
+
+\end{document}
+
